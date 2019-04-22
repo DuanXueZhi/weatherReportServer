@@ -1,0 +1,4 @@
+users（用户表）								
+id	用户名	密码	身份	头像	性别	城市列表	存在与否	创建时间
+sdf5s4d35f4	admin	123	admin	image	男	北京，上海，广州	TRUE	1.55577E+12
+sdf5s4d35f4	张三	123	consumer	image	男	北京，上海，广州	TRUE	1.55577E+12
